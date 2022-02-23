@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and remonstrance of the aldermen and members of Common-Council now imprisoned in the Tower of London</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37331</idno>
+            <idno type="STC">Wing D543</idno>
+            <idno type="STC">ESTC R11105</idno>
+            <idno type="EEBO-CITATION">11821938</idno>
+            <idno type="OCLC">ocm 11821938</idno>
+            <idno type="VID">49591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49591)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 25:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and remonstrance of the aldermen and members of Common-Council now imprisoned in the Tower of London</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century --  Sources.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49591:1"/>
+            <pb facs="tcp:49591:1" rendition="simple:additions"/>
+            <p>A DECLARATION AND REMONSTRANCE OF THE ALDERMEN AND MEMBERS of Common-Council, Now Impriſoned in the Tower OF LONDON.</p>
+            <p>Publiſhed for general ſatisfaction.</p>
+            <p>LONDON, Printed for <hi>George Horton,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:49591:2"/>
+            <pb n="3" facs="tcp:49591:2"/>
+            <head>A DECLARATION AND REMONSTRANCE OF THE Members of the Common-Coun<g ref="char:EOLhyphen"/>cil, now Impriſoned in the Tower of <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Ere it as Lawfull to utter Truth, as Vnlawfull to Suffer for Truth; to compare the neareſt of Our Thoughts with the moſt notorious of Our Actions, and preſent them as in a Mirror to the Publick Eye, We might then Declare; That as We have ingaged Our
+<pb facs="tcp:49591:3"/> ſelves in one Sacred <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ye of Covenant, ſo therein We have in all fidelity perſevered, declining neither Law, Religion, Parliament, nor Li<g ref="char:EOLhyphen"/>berty, neceſſary in profeſſing Chriſtians, pro<g ref="char:EOLhyphen"/>perly natural to true Subjects.</p>
+            <p>The Covenant bindes all (without excepti<g ref="char:EOLhyphen"/>on) within the Pale thereof, to an Vnite De<g ref="char:EOLhyphen"/>fence, and Mutual Co-aſſiſtance of each other: But as in the Divine Law, the Breach of One Commandement, pleads the Offender guilty of all; ſo We preſume in this humane Law, the Covenant, the forfeiture of one Branch brings ſelf-guiltineſs on all the reſt. We pray for mercy on this National ſin.</p>
+            <p>And ſeeing, with too Tranſparent Eyes, both Nature and Religion turned Antipodes, acting themſelves into a ſelf-antipathy, as if Man, a<g ref="char:EOLhyphen"/>bove all ſublunary Creatures, was onely com<g ref="char:EOLhyphen"/>pound of all contrarities, ſeeing the foundation; on which next under Heaven Out hopes depend, of Our Lawes, Our Religion, Our Proper Rights and Priviledges, We ſay not Oaths and Proteſtations, blown up by the very roots, by ſuch a ſtrong Tempeſtuous violence, which beats down all things before it, making the lof<g ref="char:EOLhyphen"/>tieſt Cedar level with the loweſt ſhrubs, until it hath vented it ſelf into a Vniverſal Deſtruction; that the Fearfull over-awed and beguiled Mul<g ref="char:EOLhyphen"/>titude, may in the view of Our preſent Conditi<g ref="char:EOLhyphen"/>on be ſenſible of their Own Ruine: Thus una<g ref="char:EOLhyphen"/>nimouſly We unboſome Our ſelves unto the
+<pb facs="tcp:49591:3"/> World, ſhewing that in all Our Enterprizes, ſince theſe unnatural and Domeſtick Diviſions, We have indeavoured to keep a good Conſcience towards God and all men; and how unſavory the fruit of theſe laſt Years have reliſht with Vs, none, better then our own Souls, can atteſt; what forwardneſs for the Publick Good; what backwardneſs in the Enbrewing our ſelves in unknown Allarums, eſpecially of Blood; what aſſiſtance both in our Perſons and Purſes, for the cutting off the neck of this unnatural War, and the cloſing up of all diſtractions in the Arms of Peace and Vnity, not done in cloſets, nor pro<g ref="char:EOLhyphen"/>moved in ſecret corners, the whole City and Na<g ref="char:EOLhyphen"/>tion can bear witneſs.</p>
+            <p>And when We had exhauſted our ſelves for the General of the Natian abroad the Sword being by Divine Mercy pluckt out of the Hand of our Enemies hoping then We ſhould receive a ſweet and bleſſed iſſue of all our travels, finding our own Sword ſtill drawn, yet no Enemy to oppoſe, and too ſad probation of ſiniſter reaches; We could not but reflect upon our ſelves and apply our indeavours to the ſafety of that wherewith God and the Laws had intruſted Vs at home. Will any man ſuffer his Eſtate and Livelihood to be Entrencht on by another that hath no right thereto and be ſilent? Have not We through many Generations, by the Gracious influence of many glorious Parliaments been poſſeſſors of an Honourable and Free Charter, the very ſinew
+<pb facs="tcp:49591:4"/> of the City, and Fee ſimple of our being, and ſhall it now, <hi>Vi &amp; armis,</hi> be wreſted from Vs, and We be accounted Enemies to others, for indeavour<g ref="char:EOLhyphen"/>ing to preſerve our own? if ſuch things paſs for Law who can be Maſter of what he hath? What can the Nations expect when thoſe out of the very Bowels of the City ſeeks her ruine?</p>
+            <p>Neither did We ever harbour the leaſt thoughts of an Embroyling War, as by our dayly and inceſſant actings with the Parliament did appear; ſtraining our ſelves to our utmoſt Power and the higheſt Key of pure Conſcience, to Qualifie all things into a right ſence; But the returns of our indeavours with our hopes, are like Pills guilded over with ſpecious glo<g ref="char:EOLhyphen"/>zes and pretences.</p>
+            <p>And, that which We value above the richeſt price of Nature our Religion is made an Odium, become a laughing ſtock unto many; who like Ramping Lyons, rather then Lambes of Chriſt, rend and tear down the pale of his fold, from a Chriſtian conformity to a Platonical Community, and that uncivilized Liberty, the flood gate to a perpetual confuſion, and yet they and We are Brethren: Do they ſtand up for a Liberty? Why not We? No, We deny our own Liber<g ref="char:EOLhyphen"/>ty that We may be the Lords Freemen.</p>
+            <p>And We call Heaven and Earth to witneſs, that We have not failed in any thing that may plead Vs innocent; We have been more then Servants to the Parliament, more then Vota<g ref="char:EOLhyphen"/>ries
+<pb n="7" facs="tcp:49591:4"/> to the Army; leſs We were not, more We could not be: We have procured the diſlike of many, and are ſlighted for emptying our ſelves to make others full, and for others Liberty We ſtand Impriſoned.</p>
+            <p>Hear, O Heavens, and judge, O Earth, the cauſe of the diſtreſſed: And becauſe with Man there is neither Truth nor Mercy, may the Di<g ref="char:EOLhyphen"/>vine Arm of Iuſtice carry on theſe things unto a bleſſed iſſue, whilſt from the bottom of our hearts We unfeignedly do pray, That God would be pleaſed to pour Oyl and Wine into our Nations wounds, to the everlaſting peace and conſolation of his People, that a Free Parliament may with higheſt honour be choſen in this Nation, and remain as a fixed Star in the Firmament of the Church, that they may judge righteous judge<g ref="char:EOLhyphen"/>ment, and ſettle our Diviſions in a peaceful po<g ref="char:EOLhyphen"/>ſture, That the Army, as hitherto, ſo they may ſtill be faithful to their friends, victorious over their Enemies; and that the whole Nation may injoy that Liberty, which by Religion, Law, or Cu<g ref="char:EOLhyphen"/>ſtome, they can claim.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
